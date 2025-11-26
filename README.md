@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a focus o
 - Experience: Building various web apps including banking solutions and event planners.
 - Current Focus: Enhancing user experiences through intuitive design and efficient code.
 ## 🛠 Technologies & Tools
-- Languages: JavaScript, TypeScript Python.
+- Languages: JavaScript, TypeScript, Python.
 - Frameworks & Libraries: React, Node.js, Flask.
 - Tools: Git, browser Dev tools.
 - Database: MySQL.
