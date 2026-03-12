@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a focus o
 - Current Focus: Enhancing user experiences through intuitive design and efficient code.
 ## 🛠 Technologies & Tools
 - Languages: JavaScript, TypeScript, Python.
-- Frameworks & Libraries: React, Node.js, Flask.
+- Frameworks & Libraries: React, Express.js, Flask.
 - Tools: Git, browser Dev tools.
 - Database: MySQL.
 ## 🌟 Projects
@@ -21,7 +21,7 @@ Here are some of the projects I've worked on:
 ## 📬 Get in Touch
 - Feel free to reach out if you have any questions or just want to connect!.
 - Email: chukwutememi@gmail.com.
-- LinkedIn: www.linkedin.com/in/chukwutem-emi-b02647323.
+- LinkedIn: https://www.linkedin.com/in/chukwutem-emi
 Thanks for visiting my profile!.
 
 
