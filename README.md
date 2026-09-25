@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a focus o
 ## 🌟 Projects
 Here are some of the projects I've worked on:
 - **Vehicle Parking Lot System:** A full-stack parking management system built with **Node.js, TypeScript, React, AWS, Redis, RabbitMQ, Sequelize, and MySQL**. Implements authentication, parking-session management, API integration, rate limiting, asynchronous event processing.
-- **Appointment Booking System:** A backend-focused appointment management application built with **Python and Flask**, providing APIs for managing appointments and related user operations.
+- **Appointment Booking System:** A full-stack appointment management application built with Python, Flask, and React, allowing users to manage appointments through an interactive web interface and backend APIs.
 - **Bank Web Application:** A web-based banking application focused on **user management, account operations, and transaction workflows**.
 ## 📈 My Goals
 - Continuously improve my skills and stay updated with the latest technologies.
