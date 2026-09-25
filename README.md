@@ -2,7 +2,7 @@
 Welcome to my GitHub profile! I'm a passionate software developer with a focus on web application development. I enjoy building innovative solutions and exploring new technologies.
 ## 🚀 About me
 - Specialization: Web Application Development.
-- Experience: Building various web apps including banking solutions and event planners.
+- Experience: Building various web apps including Vehicle Parking lot Management System and Appointment Booking System.
 - Current Focus: Enhancing user experiences through intuitive design and efficient code.
 ## 🛠 Technologies & Tools
 - Languages: JavaScript, TypeScript, Python.
