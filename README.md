@@ -11,9 +11,9 @@ Welcome to my GitHub profile! I'm a passionate software developer with a focus o
 - Database: MySQL.
 ## 🌟 Projects
 Here are some of the projects I've worked on:
-- Bank Web Application: A comprehensive solution for banking needs with secure transactions and user management.
-- Multiplication App: An educational tool designed to help users practice multiplication.
-- Event Planner: An app that allows users to plan events and download content as images or HTML files.
+- **Vehicle Parking Lot System:** A full-stack parking management system built with **Node.js, TypeScript, React, AWS, Redis, RabbitMQ, Sequelize, and MySQL**. Implements authentication, parking-session management, API integration, rate limiting, asynchronous event processing, and background workers.
+- **Appointment Booking System:** A backend-focused appointment management application built with **Python and Flask**, providing APIs for managing appointments and related user operations.
+- **Bank Web Application:** A web-based banking application focused on **user management, account operations, and transaction workflows**, with a responsive frontend and backend API integration.
 ## 📈 My Goals
 - Continuously improve my skills and stay updated with the latest technologies.
 - Contribute to open-source projects and collaborate with other developers.
